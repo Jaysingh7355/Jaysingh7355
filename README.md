@@ -11,7 +11,7 @@
 <h1 align='center'>I'm Jay Singh</h1>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jaysingh7355&label=Visitors&color=0e75b6&style=flat" alt="gauravghost" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jaysingh7355&label=Visitors&color=0e75b6&style=flat" alt="Jaysingh7355" /> </p>
 
 <div size='20px'>I'm a Full Stack Developer:smile: 
 </div>
