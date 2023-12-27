@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jaysingh7355&label=Visitors&color=0e75b6&style=flat" alt="Jaysingh7355" /> </p>
 
-<div size='20px'>I'm a Full Stack Developer:smile: 
+<div size='20px'>I'm a Full Stack Developer: 
 </div>
 <div size='20px'>I have completed my B.Tech from Information Technology
 </div>
