@@ -56,17 +56,17 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
-
-<br>
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
-<p align="left">
-    <a href = 'https://www.linkedin.com/in/jay-singh-431a57205/' target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width = '40px' /></a> 
-    <a href = 'https://twitter.com/jay_singh125' target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width = '40px' /></a> 
-</p>
 <br>
 <h2> My Streak Stats <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50"> </h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaysingh7355&theme=radical" alt="Jay's Streak Stats" />
 </p>
+<br>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
+<p align="left">
+    <a href = 'https://www.linkedin.com/in/jay-singh-431a57205/' target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width = '40px' /></a> 
+    <a href = 'https://twitter.com/jay_singh125' target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width = '40px' /></a> 
+</p>
+
 
