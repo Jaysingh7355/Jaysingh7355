@@ -47,7 +47,7 @@
 <a href="https://github.com/Jaysingh7355">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysingh7355&hide_progress=true&show_icons=true&hide=java&line_height=27&locale=en&count_private=true&layout=compact&theme=radical" />
 </a>
-<a href="https://github.com/gauravghost">
+<a href="https://github.com/Jaysingh7355">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaysingh7355&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Jay's Github Star's" />
 </a>
 
@@ -60,7 +60,7 @@
 <h2> My Streak Stats <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50"> </h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaysingh7355&theme=radical" alt="Jay's Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Jaysingh7355&theme=radical" alt="Jay's Streak Stats" />
 </p>
 <br>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
