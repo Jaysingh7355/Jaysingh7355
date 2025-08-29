@@ -57,11 +57,12 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 <br>
-<h2> My Streak Stats <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50"> </h2>
+<h2> My Streak Stats <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50"></h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jaysingh7355&theme=radical&t=2" alt="Jay's Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Jaysingh7355&theme=radical" alt="Jay's Streak Stats" />
 </p>
+
 
 <br>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
